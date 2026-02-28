@@ -1,4 +1,8 @@
-score = 10
-score += 5
+name = "manku"
 
-print(score)
+name.lower()
+name.upper()
+
+
+sentence = "hey i am mankuu"
+sentence.title()
