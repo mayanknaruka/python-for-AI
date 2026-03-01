@@ -1,8 +1,3 @@
-name = "manku"
+my_list = ["mayank", "iqra", "neha", 56]
 
-name.lower()
-name.upper()
-
-
-sentence = "hey i am mankuu"
-sentence.title()
+my_list[1]
