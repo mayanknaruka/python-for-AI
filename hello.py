@@ -1,6 +1,2 @@
-class dog:
-    def __init__(self, name, breed):
-        self.name = name
-        self.breed = breed
-
-         
+array = ["mayank",1, "arrya"]
+print(array)
